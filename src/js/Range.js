@@ -1,4 +1,4 @@
-import { Character, TYPE_DAEMON, TYPE_MAGICIAN} from './Character';
+import { Character, TYPE_DAEMON, TYPE_MAGICIAN } from './Character';
 
 export default class Range extends Character {
   constructor(name, type, attack, defence) {
